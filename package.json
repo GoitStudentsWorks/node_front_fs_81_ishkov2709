@@ -2,7 +2,7 @@
   "name": "watertracker",
   "version": "0.1.0",
   "private": true,
-  "homepage": "/",
+  "homepage": "https://Ruslan-Ts.github.io/node_front_fs_81_ishkov2709",
   "dependencies": {
     "@fontsource/roboto": "^5.0.8",
     "@reduxjs/toolkit": "^1.9.7",
