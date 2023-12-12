@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import sprite from 'img/sprites.svg';
+// import sprite from 'img/sprites.svg';
 import { color } from 'styles/colors';
 
 export const ModalBox = styled.div`
